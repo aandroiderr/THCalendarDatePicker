@@ -37,3 +37,4 @@
 - (void)indicateDayHasItems:(BOOL)indicate;
 
 @end
+//add this line by KietLe on GitHub
